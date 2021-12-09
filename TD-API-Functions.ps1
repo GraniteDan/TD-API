@@ -5,7 +5,7 @@
 #   Contains a series of functions used for working with AD accounts
 #   And the TDX API
 #   
-#   Author: dan.parr@acadiau.ca
+#   Author: dparr@granite-it.net
 #   Created: Sept. 2021
 #
 #
